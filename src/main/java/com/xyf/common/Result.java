@@ -8,6 +8,7 @@ import java.util.Map;
  * @Author
  * @Date
  **/
+
 public class Result<T> {
 private Integer code;             // 编码：0成功,1和其它数字为失败
 private String msg;               // 错误信息
